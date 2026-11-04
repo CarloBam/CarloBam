@@ -2,7 +2,7 @@
 
 **Data scientist in the making.** I build interpretable machine learning on South African data, currently in people analytics at Woolworths and moving deeper into data science and ML engineering.
 
-🌐 [carlobam.github.io](https://carlobam.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/) · ✉️ carlobam7@gmail.com
+🌐 [carlobam.github.io](https://carlobam.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/carlobam/) · ✉️ carlobam7@gmail.com
 
 ---
 
